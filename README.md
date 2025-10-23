@@ -1,6 +1,6 @@
 # Apollo Hospitals - Patient Emergency Room Visits Analysis
 
-🔗 Live Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiYWZlN2U2ZGEtYjRlYy00MDc2LWEzZDctNGExYjBiMGU5ODAxIiwidCI6IjY2MjQ1OWI0LTQ3YWUtNDc0Yi05ODkyLTczZDhhMDRjODRmMSJ9)
+🔗 Live Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiNmFkNWQyZjMtZWJmZS00YjJkLTg0YjYtMTRkODA2MTEwNTg5IiwidCI6IjZlYTIxZGYzLThhYTctNDk5ZC05N2Y2LWQ1OGQxODA2MTM5MSJ9)
 
 This Power BI dashboard provides a comprehensive analysis of patient emergency room visits at **Apollo Hospitals**, offering valuable insights into key healthcare metrics. This project showcases proficiency in **data importing**, **cleaning**, **DAX calculations**, and **visualisation techniques** within Power BI.
 
